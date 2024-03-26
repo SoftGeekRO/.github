@@ -24,7 +24,7 @@ solar technology; we're redefining the way it's integrated and utilized.
 
 ## Contact us
 
-We can be reach directly from our online store [SG SOLAR STORE](https://www.sgsolar.ro) or using our email address <office@sgsolar.ro> and also 
+You can be reach us directly from our online store [SG SOLAR STORE](https://www.sgsolar.ro) or using our email address <office@sgsolar.ro> and also 
 using the discussions board here on [Github](https://github.com/orgs/SoftGeekRO/discussions).
 
 
