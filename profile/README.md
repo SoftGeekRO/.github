@@ -10,9 +10,6 @@ high-quality Photovoltaic equipment, hand tools, and DIY equipment through our o
 Additionally, we specialize in developing innovative software and solutions tailored to the photovoltaic ecosystem. 
 With a commitment to excellence and sustainability, **SoftGeek** is dedicated to empowering individuals and businesses 
 to harness the power of solar energy efficiently and effectively.
----
-
-
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&section=footer"/>
