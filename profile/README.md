@@ -4,6 +4,7 @@
 
 ## About us
 
+
 **SoftGeek** is a dynamic company at the forefront of sustainable energy solutions. Our primary focus is on providing 
 high-quality Photovoltaic equipment, hand tools, and DIY equipment through our online store, www.sgsolar.ro. 
 Additionally, we specialize in developing innovative software and solutions tailored to the photovoltaic ecosystem. 
