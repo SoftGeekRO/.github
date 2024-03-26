@@ -1,2 +1,3 @@
-# .github
-SoftGeek is a Romanian company that sells photovoltaic solution and DIY tools
+## About us
+
+We are a Romanian company that sells and develops fotovolatic solutions
